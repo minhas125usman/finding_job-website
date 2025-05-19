@@ -1,35 +1,43 @@
-🚀 Hiring Mine – Job Seeking Website (HTML & CSS)
-Hiring Mine is a modern, static job-seeking website built entirely with HTML and CSS. It allows users to search for jobs, explore popular roles, and view featured job listings. The website includes interactive UI elements and smooth animations for an engaging experience.
+# 🚀 Hiring Mine – Job Seeking Website (HTML & CSS)
 
-🌟 Features
-✅ Stylish animated landing section
+**Hiring Mine** is a modern, static job-seeking website built entirely with **HTML** and **CSS**. It allows users to search for jobs, explore popular roles, and view featured job listings. The website features a clean interface with smooth animations for an engaging experience.
 
-✅ Job role search with button filters
+---
 
-✅ Popular job listings section
+## 🌟 Features
 
-✅ Highlighted top profiles area
+✅ Stylish animated landing section  
+✅ Job role search with button filters  
+✅ Popular job listings section  
+✅ Highlighted top profiles area  
+✅ Footer with contact and about info  
+✅ Clean and modern visual design  
 
-✅ Footer with contact and about info
+❌ No JavaScript – just pure HTML & CSS  
+❌ No responsiveness – fixed layout for desktop view only  
 
-✅ Clean and modern visual design
+---
 
-❌ No JavaScript – just pure HTML & CSS
+see this project:[https://jobfi.netlify.app/]
 
-❌ No responsiveness – fixed layout for desktop view only
+## 📁 Project Structure
 
-📁 Project Structure
-pgsql
-Copy
-Edit
 HiringMine/
 ├── index.html
 ├── style.css
 ├── assets/
-│   └── images, icons, logos, etc.
+│ └── images, icons, logos, etc.
 └── README.md
-📌 How to Use
-Clone or download this repository.
+
+
+---
+
+## 📌 How to Use
+
+1. **Clone or Download** this repository:
+   ```bash
+   git clone https://github.com/yourusername/HiringMine.git
+
 
 Open index.html in your browser.
 
@@ -45,6 +53,9 @@ This project is intended for desktop viewing only.
 
 No frameworks, libraries, or JavaScript have been used.
 
-You can extend this by adding responsiveness or backend functionality in the future.
+You can extend this project by adding responsiveness, interactivity, or backend functionality in the future.
 
+🙌 Credits
+Designed and developed by [M usman Minhas].
 
+Feel free to fork, customize, and enhance this project!
